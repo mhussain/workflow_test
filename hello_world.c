@@ -6,6 +6,6 @@ int main(int argc, char **argv) {
   fprintf(stdout, "Kya sa\n");
   fprintf(stdout, "!Hola!\n");
   fprintf(stdout, "!GutenTag!\n");
-  fprintf(stdout, "Ahlan wa Sahlan\n");
+  fprintf(stdout, "Halle Shouma\n");
   return 1;
 }
